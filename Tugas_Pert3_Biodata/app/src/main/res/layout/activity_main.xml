@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#dd8383"
+        android:gravity="center"
+        android:padding="10pt"
+        android:text="BIODATA"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#a6c1d2"
+        android:gravity="center"
+        android:padding="10pt"
+        android:text="Hi, My Full Name is Putri Maulidiyah. But My Friends Call Me Putri"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#7a97b9"
+        android:gravity="center"
+        android:padding="10pt"
+        android:text="With ID 191103583"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#9c94a7"
+        android:gravity="center"
+        android:padding="10pt"
+        android:text="The Address Is In Pontianak "
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#909cbd"
+        android:gravity="center"
+        android:padding="8pt"
+        android:text="Email : putrimaulidiyah2001@gmail.com"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="#6989a7"
+        android:gravity="center"
+        android:padding="10pt"
+        android:text="Class 6A3"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        />
+</LinearLayout>
