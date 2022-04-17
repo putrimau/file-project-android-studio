@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Minuman"
+        android:background="#69c969"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Ayam"
+        android:background="#3d943d"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:padding="10pt"
+        android:layout_weight="1"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Daging"
+        android:background="#69c969"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Sayur"
+        android:background="#3d943d"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Jeroan"
+        android:background="#69c969"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_weight="1"
+        android:textSize="25sp"
+        />
+
+</LinearLayout>
